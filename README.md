@@ -1,6 +1,8 @@
 # OSG_Eletronic_lab_Book_JH
 Otago Study Group tutorial for setting up an electronic lab notebook on Github.
 
+[Click here for guidelines file](Guidelines.md)
+
 ------------------------------------------------------
 
 ## May
