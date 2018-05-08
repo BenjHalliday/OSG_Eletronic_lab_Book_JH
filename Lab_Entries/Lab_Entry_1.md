@@ -14,7 +14,7 @@
 ## Task 1
 I kept my PCR tubes and have just under 10uL left. I will re-run these tomorrow.
 
-I used the baking a cake [protocol.](~/Protocols/Baking_A_Cake)
+I used the baking a cake [protocol.](https://github.com/JoshuaHarris391/OSG_Eletronic_lab_Book_JH/blob/master/Protocols/Baking_A_Cake.md)
 
 [Syntax Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 
