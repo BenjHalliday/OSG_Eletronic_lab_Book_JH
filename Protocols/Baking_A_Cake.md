@@ -4,5 +4,3 @@
 1. Sift together the flour, baking powder, and salt. Set aside.
 
 1. Divide the batter between cake pans. Use a scale or mechanical ice cream scoop to evenly divide the batter.
-
-1. Smooth the tops with an offset spatula. Drop the pans against the counter to shake out air bubbles.
