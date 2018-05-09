@@ -8,9 +8,14 @@
 
 1. Task 1
 1. Task 2
+1. Task 2
 1. Task 3
 
 ------------------------------------------------------------------
+# Heading
+## Heading
+### Heading
+
 ## Task 1
 I kept my PCR tubes and have just under 10uL left. I will re-run these tomorrow.
 
